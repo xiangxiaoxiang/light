@@ -68,8 +68,8 @@ class text
 
 }
 
-/*城市递归
- * $tree = New text();
+//城市递归
+  $tree = New text();
 $tree->cityMore($tree->myList);
-*/
+
 

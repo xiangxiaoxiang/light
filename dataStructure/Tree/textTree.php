@@ -12,7 +12,6 @@ class textTree
 {
     public function dispose($node, $num = 0)
     {
-        var_dump($node);exit();
         if ($node->data) {
             echo str_repeat('-', $num) . $node->data . PHP_EOL;
             foreach ($node->children as $k =>$v){

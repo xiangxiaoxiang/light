@@ -66,6 +66,8 @@
    - [环形队列](dataStructure/Queue/CircularQueue.php)
    - [双端队列](dataStructure/Queue/LinkedListDeQueue.php)   
 4. [树](dataStructure/Tree/Tree.php)
+   -[城市二叉树](dataStructure/Tree/Tree.php)
+   -[多度二叉树](dataStructure/Tree/textTree.php)
    - [二叉树](dataStructure/Tree/BinaryTree.php)
    - [二叉搜索树](dataStructure/Tree/BST.php)
 
